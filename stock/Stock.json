@@ -1,0 +1,39 @@
+{
+    "Stock": [
+        {
+            "name": "Birla",
+            "numberOfShares": "20",
+            "price": "150"
+        },
+        {
+            "name": "Lenovo",
+            "numberOfShares": "20",
+            "price": "500"
+        },
+        {
+            "name": "reliance",
+            "numberOfShares": "20",
+            "price": "50"
+        },
+        {
+            "name": "Prajakt",
+            "numberOfShares": "12",
+            "price": "12"
+        },
+        {
+            "name": "FutureRetailer",
+            "numberOfShares": "12",
+            "price": "55"
+        },
+        {
+            "name": "Honda",
+            "numberOfShares": "14",
+            "price": "86"
+        },
+        {
+            "name": "Idea",
+            "numberOfShares": "15",
+            "price": "45"
+        }
+    ]
+}
