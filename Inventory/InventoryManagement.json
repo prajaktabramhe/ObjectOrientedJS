@@ -1,0 +1,53 @@
+{
+    "rice": [
+        {
+            "name": "Basmati",
+            "weight": "30",
+            "price": "80"
+        },
+        {
+            "name": "Kolam",
+            "weight": "20",
+            "price": "50"
+        },
+        {
+            "name": "Brown",
+            "weight": "10",
+            "price": "30"
+        }
+    ],
+    "pulses": [
+        {
+            "name": "Beans",
+            "weight": "20",
+            "price": "20"
+        },
+        {
+            "name": "Lentil dal",
+            "weight": "30",
+            "price": "20"
+        },
+        {
+            "name": "Moth bean",
+            "weight": "10",
+            "price": "90"
+        }
+    ],
+    "wheats": [
+        {
+            "name": "Sharbati",
+            "weight": "22",
+            "price": "30"
+        },
+        {
+            "name": "Khapli Wheat",
+            "weight": "15",
+            "price": "40"
+        },
+        {
+            "name": "HTC Wheat",
+            "weight": "10",
+            "price": "30"
+        }
+    ]
+}
